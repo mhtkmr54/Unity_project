@@ -1,0 +1,27 @@
+Base path: E:/Apps/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-7-1824
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=1 type=0 insize=7190 outsize=1244 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7190 outsize=5572 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7190 outsize=5345 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=5041 outsize=5398 kw=SPOT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5041 outsize=6263 kw=DIRECTIONAL_COOKIE ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=5041 outsize=1880 kw=SPOT ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4319 outsize=3008 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=6821 outsize=6181 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=6821 outsize=6 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=6821 outsize=1565 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_ON ok=1
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+
+Quitting shader compiler process
